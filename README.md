@@ -8,9 +8,6 @@ Episode 2 - ```https://www.youtube.com/watch?v=FbEW3xAmhKs```
 
 Episode 3 - ```https://www.youtube.com/watch?v=FGC48C2beoA```
 
-Episode 4 - ```https://www.youtube.com/watch?v=2uZYKcKHgU0```
-
-
 ## git shortcuts
 ```
 
