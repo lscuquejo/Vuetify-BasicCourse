@@ -12,9 +12,9 @@
 
 ```Episode 5``` - [Watch it](https://www.youtube.com/watch?v=kp2vsNlV5xc) :godmode:
 
-```Episode 6``` - [Watch it](https://www.youtube.com/watch?v=55hSO_LJeCo) :godmode:
+```Episode 6``` - [Watch it](https://www.youtube.com/watch?v=55hSO_LJeCo) :eyes:
 
-```Episode 7``` - [Watch it](https://www.youtube.com/watch?v=pbU9JxMriOo) :godmode:
+```Episode 7``` - [Watch it](https://www.youtube.com/watch?v=pbU9JxMriOo) :japanese_goblin:
 
 ## git shortcuts
 ```
@@ -26,8 +26,9 @@ git add -A && git commit -m "intended commit " && git push  # add all commit & p
 ## Useful links
 ```Vuetify Ui Components Documentation``` [Click here](https://vuetifyjs.com/en/components/alerts)
 
-```Cool Icons (Material.io)``` [Click here](https://material.io/tools/icons/?style=baseline)
+```Vuetify Cool Icons (Material.io)``` [Click here](https://material.io/tools/icons/?style=baseline)
 
+```Git Cool emojis ``` [Click here](https://material.io/tools/icons/?style=baseline)
 
 ## Used Commands
 
