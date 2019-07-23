@@ -18,6 +18,8 @@
 
 ```Episode 8``` - [Watch it](https://www.youtube.com/watch?v=6Uw8QiC1emA) :hamster:
 
+```Episode 9``` - [Watch it](https://www.youtube.com/watch?v=Qnj5CsUD0cs) :boar:
+
 
 ## git shortcuts
 ```
