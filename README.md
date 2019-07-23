@@ -16,6 +16,9 @@
 
 ```Episode 7``` - [Watch it](https://www.youtube.com/watch?v=pbU9JxMriOo) :japanese_goblin:
 
+```Episode 8``` - [Watch it](https://www.youtube.com/watch?v=6Uw8QiC1emA) :hamster:
+
+
 ## git shortcuts
 ```
 
@@ -28,7 +31,7 @@ git add -A && git commit -m "intended commit " && git push  # add all commit & p
 
 ```Vuetify Cool Icons (Material.io)``` [Click here](https://material.io/tools/icons/?style=baseline)
 
-```Git Cool emojis ``` [Click here](https://material.io/tools/icons/?style=baseline)
+```Git Cool emojis ``` [Click here](https://gist.github.com/rxaviers/7360908)
 
 ## Used Commands
 
