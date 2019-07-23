@@ -1,26 +1,18 @@
 ![Alt text](Images/Vuetify.png?raw=true "Title")
 
 # Welcome to Vuetify-BasicLvL studies.
-
-```Episode 1``` - [Watch it](https://www.youtube.com/watch?v=2uZYKcKHgU0) :shipit:
-
-```Episode 2``` - [Watch it](https://www.youtube.com/watch?v=FbEW3xAmhKs) :octocat:
-
-```Episode 3``` - [Watch it](https://www.youtube.com/watch?v=FGC48C2beoA) :pig2:
-
-```Episode 4``` - [Watch it](https://www.youtube.com/watch?v=BIuQfQcptIU) :cow:
-
-```Episode 5``` - [Watch it](https://www.youtube.com/watch?v=kp2vsNlV5xc) :godmode:
-
-```Episode 6``` - [Watch it](https://www.youtube.com/watch?v=55hSO_LJeCo) :eyes:
-
-```Episode 7``` - [Watch it](https://www.youtube.com/watch?v=pbU9JxMriOo) :japanese_goblin:
-
-```Episode 8``` - [Watch it](https://www.youtube.com/watch?v=6Uw8QiC1emA) :hamster:
-
-```Episode 9``` - [Watch it](https://www.youtube.com/watch?v=Qnj5CsUD0cs) :boar:
-
-```Episode 10``` - [Watch it](https://www.youtube.com/watch?v=DnxplXitv8w) :wolf:
+| Episodes 1-10  | 11-20 |
+| ------------- | ------------- |
+|```Episode 1``` - [Watch it](https://www.youtube.com/watch?v=2uZYKcKHgU0) :shipit:| ```Episode 11``` - [Watch it](https://www.youtube.com/watch?v=Dwr8ZcJ-Nyk) :shipit:|
+|```Episode 2``` - [Watch it](https://www.youtube.com/watch?v=FbEW3xAmhKs) :octocat:| empty |
+|```Episode 3``` - [Watch it](https://www.youtube.com/watch?v=FGC48C2beoA) :pig2:| empty |
+|```Episode 4``` - [Watch it](https://www.youtube.com/watch?v=BIuQfQcptIU) :cow:| empty |
+|```Episode 5``` - [Watch it](https://www.youtube.com/watch?v=kp2vsNlV5xc) :godmode:| empty |
+|```Episode 6``` - [Watch it](https://www.youtube.com/watch?v=55hSO_LJeCo) :eyes:| empty |
+|```Episode 7``` - [Watch it](https://www.youtube.com/watch?v=pbU9JxMriOo) :japanese_goblin:| empty |
+|```Episode 8``` - [Watch it](https://www.youtube.com/watch?v=6Uw8QiC1emA) :hamster:| empty |
+|```Episode 9``` - [Watch it](https://www.youtube.com/watch?v=Qnj5CsUD0cs) :boar:| empty |
+|```Episode 10``` - [Watch it](https://www.youtube.com/watch?v=DnxplXitv8w) :wolf:| empty |
 
 ## git shortcuts
 ```
