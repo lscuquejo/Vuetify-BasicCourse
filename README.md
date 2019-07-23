@@ -20,6 +20,7 @@
 
 ```Episode 9``` - [Watch it](https://www.youtube.com/watch?v=Qnj5CsUD0cs) :boar:
 
+```Episode 10``` - [Watch it](https://www.youtube.com/watch?v=DnxplXitv8w) :wolf:
 
 ## git shortcuts
 ```
