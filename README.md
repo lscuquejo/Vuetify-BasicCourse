@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 |```Episode 1``` - [Watch it](https://www.youtube.com/watch?v=2uZYKcKHgU0) :shipit:| ```Episode 11``` - [Watch it](https://www.youtube.com/watch?v=Dwr8ZcJ-Nyk) :shipit:|
 |```Episode 2``` - [Watch it](https://www.youtube.com/watch?v=FbEW3xAmhKs) :octocat:| ```Episode 12``` - [Watch it](https://www.youtube.com/watch?v=ml9M8i9F56E) :octocat:|
-|```Episode 3``` - [Watch it](https://www.youtube.com/watch?v=FGC48C2beoA) :pig2:| empty |
+|```Episode 3``` - [Watch it](https://www.youtube.com/watch?v=FGC48C2beoA) :pig2:| ```Episode 13``` - [Watch it](https://www.youtube.com/watch?v=0Qv-6fQBFfA) :octocat:|
 |```Episode 4``` - [Watch it](https://www.youtube.com/watch?v=BIuQfQcptIU) :cow:| empty |
 |```Episode 5``` - [Watch it](https://www.youtube.com/watch?v=kp2vsNlV5xc) :godmode:| empty |
 |```Episode 6``` - [Watch it](https://www.youtube.com/watch?v=55hSO_LJeCo) :eyes:| empty |
