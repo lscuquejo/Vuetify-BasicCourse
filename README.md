@@ -4,7 +4,7 @@
 | Episodes 1-10  | 11-20 |
 | ------------- | ------------- |
 |```Episode 1``` - [Watch it](https://www.youtube.com/watch?v=2uZYKcKHgU0) :shipit:| ```Episode 11``` - [Watch it](https://www.youtube.com/watch?v=Dwr8ZcJ-Nyk) :shipit:|
-|```Episode 2``` - [Watch it](https://www.youtube.com/watch?v=FbEW3xAmhKs) :octocat:| empty |
+|```Episode 2``` - [Watch it](https://www.youtube.com/watch?v=FbEW3xAmhKs) :octocat:| empty | ```Episode 12``` - [Watch it](https://www.youtube.com/watch?v=ml9M8i9F56E) :octocat:|
 |```Episode 3``` - [Watch it](https://www.youtube.com/watch?v=FGC48C2beoA) :pig2:| empty |
 |```Episode 4``` - [Watch it](https://www.youtube.com/watch?v=BIuQfQcptIU) :cow:| empty |
 |```Episode 5``` - [Watch it](https://www.youtube.com/watch?v=kp2vsNlV5xc) :godmode:| empty |
