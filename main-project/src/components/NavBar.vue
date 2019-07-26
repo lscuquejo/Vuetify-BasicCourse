@@ -1,12 +1,11 @@
 <template>
     <nav>
-        <v-toolbar flat app>
-            <v-toolbar-side-icon class="grey--text" @click="drawer = !drawer">
 
-            </v-toolbar-side-icon>
+        <v-toolbar flat app>
+            <v-toolbar-side-icon @click="drawer = !drawer" class="grey--text"></v-toolbar-side-icon>
             <v-toolbar-title class="text-uppercase grey--text">
-                <span class="font-weight-light">soo</span>
-                <span>gud</span>
+                <span class="font-weight-light">Magicweb&nbsp;</span>
+                <span>ERP</span>
             </v-toolbar-title>
             <v-spacer></v-spacer>
             <v-btn flat color="grey">
@@ -15,7 +14,7 @@
             </v-btn>
         </v-toolbar>
 
-        <v-navigation-drawer v-model="drawer" app class="indigo" temporary>
+        <v-navigation-drawer app v-model="drawer" class="primary">
             <v-list>
                 <v-list-tile v-for="link in links" :key="link.text" router :to="link.route">
                     <v-list-tile-action>
@@ -45,3 +44,6 @@
         }
     }
 </script>
+
+<style>
+</style>
